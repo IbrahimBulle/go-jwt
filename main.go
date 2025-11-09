@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"go get github.com/golang-jwt/jwt/v5"
-	"go get github.com/joho/godotenv"
+	"github.com/golang-jwt/jwt/v5"
+	"github.com/joho/godotenv"
 )
 
 func main(){
